@@ -1,2 +1,2 @@
 # Poseidon_Bigsur
-Poseidon BigSur
+Poseidon BigSur Hackintosh
