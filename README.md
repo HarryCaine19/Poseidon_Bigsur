@@ -2,6 +2,6 @@
 Poseidon BigSur Hackintosh
 
 EFI Configuration for Hackintosh: 
-- Pentium Gold G6400 
+- Core i3 10105F
 - Gigabyte H410M H 
 - GeForce GT710
